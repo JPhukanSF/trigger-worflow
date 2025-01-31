@@ -1,4 +1,4 @@
-{
+[
   {
   "name": "Salesforce Scale Test",
   "landingPageUrl": "https://page.com"
@@ -15,4 +15,4 @@
   "name": "Salesforce Apex Test",
   "landingPageUrl": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing.htm"
   }
-}
+]
