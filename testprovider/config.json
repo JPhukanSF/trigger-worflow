@@ -1,18 +1,22 @@
 [
   {
-  "name": "Salesforce Scale Test",
-  "landingPageUrl": "https://page.com"
-  },
-  {
-  "name": "Copado Robotic Testing",
-  "landingPageUrl": "https://page.com"
+  "name": "Agentforce Testing Center",
+  "landingPageUrl": "https://help.salesforce.com/s/articleView?id=ai.agent_testing_center.htm&type=5"
   },
   {
   "name": "Salesforce Code Analyzer",
   "landingPageUrl": "https://developer.salesforce.com/docs/platform/salesforce-code-analyzer/guide/code-analyzer.html"
   },
   {
+  "name": "Salesforce Scale Test",
+  "landingPageUrl": "https://page.com"
+  },
+  {
   "name": "Salesforce Apex Test",
   "landingPageUrl": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing.htm"
+  },
+  {
+  "name": "Copado Robotic Testing",
+  "landingPageUrl": "https://page.com"
   }
 ]
