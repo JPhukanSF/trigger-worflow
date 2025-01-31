@@ -1,19 +1,18 @@
 {
   {
   "name": "Salesforce Scale Test",
-  "landingPageUrl": "https://page.com",
-  "referralCode": "125d66ytd67"
-  },
-  {
-  "name": "Copado",
-  "landingPageUrl": "https://page.com",
-  "referralCode": "125d66ytd67"
-  },
-  {
-  "name": "Salesforce Code Analyzer",
   "landingPageUrl": "https://page.com"
   },
   {
-  "name": "Salesforce Apex Test"
+  "name": "Copado",
+  "landingPageUrl": "https://page.com"
+  },
+  {
+  "name": "Salesforce Code Analyzer",
+  "landingPageUrl": "https://developer.salesforce.com/docs/platform/salesforce-code-analyzer/guide/code-analyzer.html"
+  },
+  {
+  "name": "Salesforce Apex Test",
+  "landingPageUrl": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing.htm"
   }
 }
