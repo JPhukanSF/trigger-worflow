@@ -4,19 +4,27 @@
   "landingPageUrl": "https://help.salesforce.com/s/articleView?id=ai.agent_testing_center.htm&type=5"
   },
   {
-  "name": "Salesforce Code Analyzer",
+  "name": "Salesforce Code Analyzer v5",
   "landingPageUrl": "https://developer.salesforce.com/docs/platform/salesforce-code-analyzer/guide/code-analyzer.html"
   },
   {
-  "name": "Salesforce Scale Test",
-  "landingPageUrl": "https://page.com"
-  },
-  {
-  "name": "Salesforce Apex Test",
+  "name": "Apex Unit Tests",
   "landingPageUrl": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing.htm"
   },
   {
-  "name": "Copado Robotic Testing",
+  "name": "Scale Test",
+  "landingPageUrl": "https://help.salesforce.com/s/articleView?id=xcloud.scale_test_overview.htm&type=5"
+  },
+  {
+  "name": "Copado Robotic Testing for DevOps Center",
+  "landingPageUrl": "https://page.com"
+  },
+  {
+  "name": "Quality Clouds",
+  "landingPageUrl": "https://page.com"
+  },
+  {
+  "name": "Provar",
   "landingPageUrl": "https://page.com"
   }
 ]
