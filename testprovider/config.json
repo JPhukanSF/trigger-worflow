@@ -1,7 +1,8 @@
 [
   {
   "name": "Agentforce Testing Center",
-  "landingPageUrl": "https://help.salesforce.com/s/articleView?id=ai.agent_testing_center.htm&type=5"
+  "landingPageUrl": "https://help.salesforce.com/s/articleView?id=ai.agent_testing_center.htm&type=5",
+    "abc": "abc"
   },
   {
   "name": "Salesforce Code Analyzer v5",
