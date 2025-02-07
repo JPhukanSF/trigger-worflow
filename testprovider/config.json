@@ -22,6 +22,7 @@
   },
   {
   "name": "Scale Test",
+  "shouldOverride": true,
   "landingPageUrl": "https://help.salesforce.com/s/articleView?id=xcloud.scale_test_overview.htm&type=5",
   "learnMore": "https://help.salesforce.com/s/articleView?id=xcloud.scale_test_view_limits_and_usage.htm&type=5",
   "description": "Use metrics to plan scale tests. Book a slot in your sandbox instance calendar, and test at production peak load. Compare performance data from recent tests.",
