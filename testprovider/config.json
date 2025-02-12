@@ -1,6 +1,7 @@
 [
   {
   "name": "Agentforce Testing Center",
+  "shouldOverride": true,
   "landingPageUrl": "https://help.salesforce.com/s/articleView?id=ai.agent_testing_center.htm&type=5",
   "learnMoreUrl": "https://help.salesforce.com/s/articleView?id=ai.agent_testing_center.htm&type=5",
   "description": "Test agent topics, actions, and responses at scale. Monitor usage and feedback to quickly activate trusted AI agents.",
