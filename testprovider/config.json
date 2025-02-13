@@ -9,6 +9,7 @@
   },
   {
   "name": "Salesforce Code Analyzer v5",
+  "shouldOverride": true,
   "landingPageUrl": "https://developer.salesforce.com/docs/platform/salesforce-code-analyzer/guide/code-analyzer.html",
   "learnMoreUrl": "https://developer.salesforce.com/docs/platform/salesforce-code-analyzer/guide/code-analyzer.html",
   "description": "Ensure your code adheres to best practices, and identify problems earlier in the development process. Select from multiple code scanners.",
@@ -16,6 +17,7 @@
   },
   {
   "name": "Apex Unit Tests",
+  "shouldOverride": true,
   "landingPageUrl": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing.htm",
   "learnMoreUrl": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing.htm",
   "description": "Execute tests for your Apex classes and triggers to improve code quality and prevent errors.",
@@ -31,6 +33,7 @@
   },
   {
   "name": "Copado Robotic Testing for DevOps Center",
+  "shouldOverride": true,
   "landingPageUrl": "https://www.copado.com/robotic-testing-trial?utm_source=salesforce&utm_medium=referral&utm_campaign=fy25_salesforce_devops_exchange&utm_content=robotic_testing_trial",
   "learnMoreUrl": "https://www.copado.com/product-overview/copado-robotic-testing",
   "description": "Launch regression and automation tests in Copado Robotic Testing from Salesforce DevOps Center! This is what we show in Test Provider description.",
@@ -38,6 +41,7 @@
   },
   {
   "name": "Quality Clouds",
+  "shouldOverride": true,
   "landingPageUrl": "https://qualityclouds.com/documentation/qc/devops-center-integration/devops-center/",
   "learnMoreUrl": "https://qualityclouds.com/documentation/docs-category/quality-clouds-for-salesforce/",
   "description": "NO MORE PROMOTE & PRAY Automated Code & Configuration Quality for Success Level up with Quality Clouds AI powered toolset!  Code smarter in line with latest Best Practices and track your success with ease!",
@@ -45,6 +49,7 @@
   },
   {
   "name": "Provar",
+  "shouldOverride": true,
   "landingPageUrl": "https://provar.com/",
   "learnMoreUrl": "https://provar.com/",
   "description": "Quality Lifecycle Management & Test Automation for Salesforce",
